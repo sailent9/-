@@ -97,7 +97,7 @@ listen web_tcp
 ```
 проверил в браузере что все работает 
 ![stats](https://github.com/sailent9/-/assets/130309754/8b3984e2-7b65-4a49-b57e-c07f4aaf1e93)
-![2-3](https://github.com/sailent9/-/assets/130309754/484b340b-ded0-41fc-bd5b-7d406441be79)
+
 
 
 
@@ -168,7 +168,7 @@ sudo systemctl reload haproxy
 curl -H 'Host:example.local' http://127.0.0.1:8088
 ```
 ![2-2](https://github.com/sailent9/-/assets/130309754/4cc2b6e6-1cf3-4c42-9e8a-85c2a3be658f)
-
+![2-3](https://github.com/sailent9/-/assets/130309754/484b340b-ded0-41fc-bd5b-7d406441be79)
 
 
 
