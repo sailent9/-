@@ -97,6 +97,7 @@ listen web_tcp
 ```
 проверил в браузере что все работает 
 ![stats](https://github.com/sailent9/-/assets/130309754/8b3984e2-7b65-4a49-b57e-c07f4aaf1e93)
+![2-3](https://github.com/sailent9/-/assets/130309754/484b340b-ded0-41fc-bd5b-7d406441be79)
 
 
 
